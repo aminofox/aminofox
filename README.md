@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @aminofox
+- 👀 I’m interested in Golang
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on Golang + Vue
+- 📫 How to reach me: send mail to aminofox165@gmail.com
+- ⚡ Fun fact: 
